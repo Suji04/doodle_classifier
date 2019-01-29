@@ -9,7 +9,7 @@ This web app supports two modes to input a doodle.
   
 **Data Source :** I've used google's quick draw dataset for this project.
 
-## gif for Demostration
+## GIF for Demostration
   ![github](https://github.com/Suji04/doodle_classifier/blob/master/exhibit.gif)
 
 ## Images for Demonstration 
